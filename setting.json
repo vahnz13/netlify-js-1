@@ -27,7 +27,8 @@
       ],
       "target":"www.techopedia.com",
       "element-remove-selector":[
-        ".ad__wrapper my-5",
+        ".ad__mapping6",
+        ".ad__title",
         "#footer-sticky-ad"
       ],
       "replace-string":[
