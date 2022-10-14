@@ -32,6 +32,13 @@
         ".ad__title",
         "#footer-sticky-ad"
       ],
+      "target":"www.corrosionpedia.com",
+      "element-remove-selector":[
+        ".ad__mapping6",
+        ".ad__mapping3",
+        ".ad__title",
+        "#footer-sticky-ad"
+      ],
       "replace-string":[
         {
           "target":"https://stackoverflow.com",
