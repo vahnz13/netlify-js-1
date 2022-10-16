@@ -15,7 +15,7 @@ const app = express();
 
 
 let headerDafult = {
-    "User-Agent": 'Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90',
+    "User-Agent": 'Not A;Brand";v="99", "Chromium";v="106", "Google Chrome";v="106',
     referer: "https://www.google.com"
 };
 
